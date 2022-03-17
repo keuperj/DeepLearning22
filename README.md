@@ -7,4 +7,6 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ## Woche 1
 
-NN
+### Lab
+* [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_1/CIFAR10-ShallowLearning.ipynb)
+
