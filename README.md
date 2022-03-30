@@ -20,7 +20,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 ## Woche 3
 
 ### Vorlesung
-* [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Training_a_simple_Perceptron_in_NumPy.ipynb)
+* [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
 
 ### Lab
 -tba-
