@@ -23,7 +23,9 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
 
 ### Lab
--tba-
+* [Intro PyTorch tensors](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_01_pytorch_tensors.ipynb)
+* [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch.ipynb)
 
 ### Assignment
--tba-
+* [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb)
+* [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb)
