@@ -13,8 +13,8 @@ Kursmaterialien zur Vorlesung Deep Learning
 ## Woche 2
 
 ### Lab
-* [Assignment simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)
-* [Assignment Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/Multi_Class_Perceptrons.ipynb)
+* [Assignment simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb) --> [solition](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/A_simple_Perceptron_in_NumPy_solution.ipynb)
+* [Assignment Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/Multi_Class_Perceptrons.ipynb) --> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/Multi_Class_Perceptrons_solution.ipynb)-
 
 
 ## Woche 3
@@ -27,5 +27,5 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch.ipynb)
 
 ### Assignment
-* [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) - [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch_solution.ipynb)
-* [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb) -  [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP_solution.ipynb)
+* [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) 
+* [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb) 
