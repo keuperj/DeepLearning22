@@ -15,7 +15,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 ### Lab
 * [Assignment simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)
 * [Assignment Multi Class Perceptrons](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/Multi_Class_Perceptrons.ipynb)
-* [(optional) Basic MLP](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_2/Basic_MLP.ipynb)
+
 
 ## Woche 3
 
