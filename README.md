@@ -23,8 +23,8 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
 
 ### Lab
-* [Intro PyTorch tensors](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_01_pytorch_tensors.ipynb)
-* [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch.ipynb)
+* [Intro PyTorch tensors](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_01_pytorch_tensors.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_01_pytorch_tensors_solution.ipynb)
+* [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch_solution.ipynb)
 
 ### Assignment
 * [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) 
