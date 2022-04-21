@@ -29,3 +29,10 @@ Kursmaterialien zur Vorlesung Deep Learning
 ### Assignment
 * [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) 
 * [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb) 
+
+## Woche 4
+
+### Lab
+* [Interactive Training Playground](https://playground.tensorflow.org/)
+
+### Assignment 
