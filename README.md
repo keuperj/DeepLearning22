@@ -34,5 +34,8 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Lab
 * [Interactive Training Playground](https://playground.tensorflow.org/)
+* [TensorBoard with PyTorch on Colab tutorial](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/tensorboard_with_pytorch.ipynb)
+* (optional) [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Assignment 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb)
