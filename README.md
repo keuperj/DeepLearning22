@@ -39,3 +39,13 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Assignment 
 * [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb)
+
+## Woche 5
+
+### Lab
+* [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/lab_pytorch_data_loader.ipynb)
+
+### Assignment
+* [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
+* [Assignment 2: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_2_PyTorch_Model_Zoo.ipynb)
+
