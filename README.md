@@ -27,12 +27,15 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Lab_02_a_perceptron_in_PyTorch_solution.ipynb)
 
 ### Assignment
-* [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) 
-* [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb) 
+* [Assignment: XOR](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch_solution.ipynb)
+* [Assignment: CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_3/Assignment_CIFAR10_MLP_solution.ipynb)
 
 ## Woche 4
 
 ### Lab
 * [Interactive Training Playground](https://playground.tensorflow.org/)
+* [TensorBoard with PyTorch on Colab tutorial](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/tensorboard_with_pytorch.ipynb)
+* (optional) [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Assignment 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb)
