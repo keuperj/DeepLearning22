@@ -49,7 +49,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
 * [Assignment 2: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_2_PyTorch_Model_Zoo.ipynb)
 
-### Woche 6
+## Woche 6
 
 ### Lab
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
