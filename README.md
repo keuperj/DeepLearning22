@@ -46,15 +46,15 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/lab_pytorch_data_loader.ipynb)
 
 ### Assignment
-* [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
-* [Assignment 2: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_2_PyTorch_Model_Zoo.ipynb)
+* [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_1_cifar10_CNN_solution.ipynb)
+* [Assignment 2: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_2_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_5/Assignment_2_PyTorch_Model_Zoo_solution.ipynb)
 
 ## Woche 6
 
 ### Lab
-* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb)
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
 
 ### Assignments
-* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_6/Assignemnt_stock-price.ipynb)
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_6/Assignemnt_stock-price.ipynb) 
 
 
