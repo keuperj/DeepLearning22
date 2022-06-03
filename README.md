@@ -73,3 +73,9 @@ Kursmaterialien zur Vorlesung Deep Learning
 ### Assignment
 * [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_8/assignment_mnistGAN.ipynb)
 
+## Woche 9
+
+### Lab
+* [NLP Transformer Example](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/transformer_tutorial.ipynb)
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/fine_tune_pre_trained_transformer.ipynb)
