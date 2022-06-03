@@ -79,3 +79,6 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [NLP Transformer Example](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/transformer_tutorial.ipynb)
 * [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/pre_trained_vt.ipynb)
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/fine_tune_pre_trained_transformer.ipynb)
+
+### Assignment
+* [Transformers on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/Transformer_CIFAR10.ipynb)
