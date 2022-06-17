@@ -82,3 +82,14 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Assignment
 * [Transformers on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_9/Transformer_CIFAR10.ipynb)
+
+## Woche 10
+
+### Lab
+* [GNNs with PyTorch Geometric ](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_10/GNN_intro.ipynb)
+* [Graph Clsssification Example](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_10/Graph_Classification.ipynb)
+*
+
+### Assignment
+* [Graph Classification IMDB](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_10/Assignment.ipynb)
+
