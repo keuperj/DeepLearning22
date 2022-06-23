@@ -94,7 +94,8 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Graph Classification IMDB](https://colab.research.google.com/github/keuperj/DeepLearning22/blob/main/week_10/Assignment.ipynb)
 
 ## Woche 11
-
+Introduction to Tensorflow
+* TensorFlow API: https://www.tensorflow.org/api_docs/python/tf
 ### Lab
 * [Introduction to Tensorflow 2](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)
 * [Tensors and Operators](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/basics.ipynb)
